@@ -163,9 +163,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	#banner h1 {font-size: 3.571em; line-height: 0;}
 	#banner h1 a:link, #banner h1 a:visited {
 		color: #000305;
-		display: block;
 		font-weight: bold;
-		margin: 0 0 .6em .2em;
 		text-decoration: none;
 	}
 	#banner h1 a:hover, #banner h1 a:active {
